@@ -1,7 +1,7 @@
 # Simon-Says-Game
 
 ! Here's what it does 👇
-### You can learn through this project how it Work.
+### You can Play this game in your Local System.
 ### Implemented by Using Java Script 
 
 <!-- ## 🖼️ Preview
