@@ -1,9 +1,10 @@
-# Simon-Says-Game
+# 🎮 Simon Says Game
 
-! Here's what it does 👇
-### You can Play this game in your Local System.
-### Implemented by Using Java Script 
+### 🔹 Test your memory and reflexes with this fun and interactive game!
+### Built using JavaScript, this classic Simon Says game lets you challenge your brain as the pattern gets longer and faster.
 
+### 💻 Play it directly on your local system — no setup needed!
+### Just open the game in your browser and start playing!
 <!-- ## 🖼️ Preview
 ![App Screenshot](https://your-image-link.com/preview.png) -->
 
